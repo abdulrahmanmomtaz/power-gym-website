@@ -27,6 +27,9 @@ function Testimonials(){
                     })
                 }
             </div>
+                <div className="scroll-hint">
+        <span></span>
+    </div>
         </section>
     );
 }

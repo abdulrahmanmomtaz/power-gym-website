@@ -31,8 +31,12 @@ return (
                 </a>
             )}
             </div>
+            
         ))}
         </div>
+            <div className="scroll-hint">
+        <span></span>
+    </div>
     </div>
 
     <div className="trainers-grid">

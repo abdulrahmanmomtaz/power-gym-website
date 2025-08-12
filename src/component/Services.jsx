@@ -39,6 +39,9 @@ return (
             image="/Sauna & Recovery.jpg"
         />
         </div>
+            <div className="scroll-hint">
+        <span></span>
+    </div>
     </div>
 
     <Pricing />
