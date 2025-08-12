@@ -4,7 +4,7 @@ const trainercards = [
     {
         id:1,
         coach: "Michael Johnson",
-        source: "public/tainer1.jpg",
+        source: "/tainer1.jpg",
         speciality: "Strength Training",
         insta: {
         instagram:"https://instagram.com/"
@@ -12,7 +12,7 @@ const trainercards = [
     {
         id:2,
         coach: "David Smith",
-        source: "public/tainer2.jpg",
+        source: "/tainer2.jpg",
         speciality: "Yoga & Flexibility",
         insta: {
             instagram:"https://instagram.com/"
@@ -21,7 +21,7 @@ const trainercards = [
     {
         id:3,
         coach: "Jessica David",
-        source: "public/trainer3.jpg",
+        source: "/trainer3.jpg",
         speciality: "Cardio & HIIT",
         insta:{
             instagram :"https://instagram.com/"

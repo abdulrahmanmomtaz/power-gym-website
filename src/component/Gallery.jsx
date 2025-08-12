@@ -11,9 +11,9 @@ return (
 
     <div className="gallery-wrapper">
         <div className="gallery-grid" ref={carouselRef}>
-        <img src="public/gym1.jpg" alt="Gym equipment" />
-        <img src="public/gym2.jpg" alt="Training area" />
-        <img src="public/gym3.jpg" alt="Group workout" />
+        <img src="/gym1.jpg" alt="Gym equipment" />
+        <img src="/gym2.jpg" alt="Training area" />
+        <img src="/gym3.jpg" alt="Group workout" />
         </div>
     </div>
 
