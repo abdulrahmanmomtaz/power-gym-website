@@ -1,6 +1,6 @@
 import React from 'react';
 import Home from "./Home"
-import About from "./about"
+import About from "./About"
 import Services from "./Services";
 import Testimonials from "./Testimonials";
 import Trainers from "./Trainer";
