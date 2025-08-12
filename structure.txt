@@ -1,0 +1,25 @@
+APP
+   -header
+   -main
+        -home
+            -call to action 
+            -video
+            -explore
+    
+        -about
+            -about us
+        -sevices
+            -cards have our services (3)
+            -pricing
+                 -3 cards or price gold -silver -platinum
+        -testimonials
+                -feedback of prople (name-stars-his feed back)
+        -Trainers
+                -photo / name / his insta
+        -Gallery / Facilities
+                -photos from our gym
+        -contact
+            -call us 
+            -join us
+    -footer
+            -copywrite
