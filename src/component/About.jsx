@@ -29,7 +29,7 @@ return (
         </div>
         <div className="about-video-container">
         <video autoPlay muted loop className="about-video">
-            <source src="public/6892543-uhd_2160_3840_25fps.mp4" type='video/mp4' />
+            <source src="/6892543-uhd_2160_3840_25fps.mp4" type="video/mp4" />
         </video>
         </div>
     </div>

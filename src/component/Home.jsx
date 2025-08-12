@@ -4,7 +4,7 @@ function Home() {
     <section id="home">
         <div className="container">
         <video autoPlay muted loop className="hero-video">
-            <source src="public/6388427-uhd_3840_2160_25fps.mp4" type="video/mp4" />
+            <source src="/6388427-uhd_3840_2160_25fps.mp4" type="video/mp4" />
             Your browser does not support the video tag.
         </video>
         <div className="overlay"></div>
