@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
+import { Link } from "react-router-dom";
+
 
 function Header() {
 const [menuOpen, setMenuOpen] = useState(false);
@@ -26,11 +28,13 @@ return (
             <li><a href="#testimonials" onClick={toggleMenu}>Testimonials</a></li>
             <li><a href="#gallery" onClick={toggleMenu}>Facilities</a></li>
             <li><a href="#contact" onClick={toggleMenu}>Contact</a></li>
-            <li className="mobile-join"><a href="#" className="btn-join">Join Us</a></li>
+            <li className="mobile-join"><a href="/src/component/AuthPage.jsx" className="btn-join">Join Us</a></li>
         </ul>
 
         <div className="account desktop-only">
-            <a href="#" className="btn-join">Join us</a>
+            
+
+<Link to="/src/component/AuthPage.jsx" className="btn-join">Join us</Link>
         </div>
     </nav>
     </header>

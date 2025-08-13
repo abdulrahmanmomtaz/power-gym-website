@@ -1,6 +1,7 @@
 import React from 'react';
 import { FaDumbbell, FaUserCheck, FaClipboardList, FaClock, FaUsers } from 'react-icons/fa';
 import { motion } from "framer-motion";
+import { Link } from "react-router-dom";
 
 function About() {
   const features = [
@@ -37,8 +38,7 @@ function About() {
               </motion.div>
             ))}
           </div>
-
-          <button className="cta-btn">Join Us Today</button>
+          <Link to="/src/component/AuthPage.jsx" className="cta-btn">Join us</Link>
         </div>
 
         <div className="about-video-container">

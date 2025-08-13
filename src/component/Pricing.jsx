@@ -60,10 +60,6 @@ return (
             />
         ))}
         </div>
-        <div className="scroll-hint">
-  <span></span>
-</div>
-
     </div>
 
       {/* Grid for large screens */}

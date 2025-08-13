@@ -16,9 +16,6 @@ return (
         <img src="/gym3.jpg" alt="Group workout" />
         </div>
     </div>
-        <div className="scroll-hint">
-        <span></span>
-    </div>
 
     <div className="gallery-note">
         <h3>🔥 Looks good? It’s even better in real life!</h3>
