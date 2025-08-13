@@ -28,13 +28,11 @@ return (
             <li><a href="#testimonials" onClick={toggleMenu}>Testimonials</a></li>
             <li><a href="#gallery" onClick={toggleMenu}>Facilities</a></li>
             <li><a href="#contact" onClick={toggleMenu}>Contact</a></li>
-            <Link to="/src/component/AuthPage.jsx" className="btn-join">Join us</Link>
+            <Link to="/src/component/AuthPage.jsx" className="mobile-join">Join us</Link>
         </ul>
 
         <div className="account desktop-only">
-            
-
-<Link to="/src/component/AuthPage.jsx" className="btn-join">Join us</Link>
+            <Link to="/src/component/AuthPage.jsx" className="btn-join">Join us</Link>
         </div>
     </nav>
     </header>
